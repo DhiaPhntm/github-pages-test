@@ -1,15 +1,15 @@
 {
   "branch": "main",
   "commit": {
-    "sha": "3a6c981d70a03f3ba5ac34b6c381c2047512658b",
+    "sha": "fd009f33cccaff91e24851de6d2a252f3bacb7b9",
     "message": "Update file on editor.dev.\n",
     "author": {
-      "timestamp": 1648123830,
+      "timestamp": 1648124008,
       "name": "DhiaPhntm",
       "email": "89022460+DhiaPhntm@users.noreply.github.com"
     }
   },
-  "built": "Thu Mar 24 2022 12:11:43 GMT+0000 (Coordinated Universal Time)",
+  "built": "Thu Mar 24 2022 12:14:23 GMT+0000 (Coordinated Universal Time)",
   "files": [
     {
       "path": "/index.html",
@@ -56,12 +56,12 @@
       "sha": "ab13c7d1cf09e3286e4ef2200d2b086747a2a7ed"
     },
     {
-      "path": "/static/chunks/chunks/chunk-MH6NWV2N-min.js",
-      "sha": "9cfecb809c50365132aadf76a21ef1a578dd9240"
-    },
-    {
       "path": "/static/chunks/chunks/chunk-BPKZZAH3-min.js",
       "sha": "da81cf578b0048d598e05f5e2d5c767821a5d9d2"
+    },
+    {
+      "path": "/static/chunks/chunks/chunk-MH6NWV2N-min.js",
+      "sha": "9cfecb809c50365132aadf76a21ef1a578dd9240"
     },
     {
       "path": "/static/chunks/chunks/chunk-QDQFYKKJ-min.js",
@@ -100,12 +100,12 @@
       "sha": "c4ed94c729bbdfa786f8bd5069f43cfa1b60b3b9"
     },
     {
-      "path": "/static/chunks/partials/PromoBanner/PromoBanner.js",
-      "sha": "4dbd4035a2d9b4fcb8ee1f2071de1fceecb98ab5"
-    },
-    {
       "path": "/static/chunks/main.js",
       "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
+    },
+    {
+      "path": "/static/chunks/partials/PromoBanner/PromoBanner.js",
+      "sha": "4dbd4035a2d9b4fcb8ee1f2071de1fceecb98ab5"
     },
     {
       "path": "/static/chunks/partials/SimpleIntro/SimpleIntro.js",
@@ -196,20 +196,20 @@
       "sha": "9cfecb809c50365132aadf76a21ef1a578dd9240"
     },
     {
-      "path": "/storybook/dist/chunks/chunks/chunk-QDQFYKKJ-min.js",
-      "sha": "f6040407ae08e2e15ec804a7d59c7bcecabfed11"
-    },
-    {
       "path": "/storybook/dist/chunks/chunks/chunk-BPKZZAH3-min.js",
       "sha": "da81cf578b0048d598e05f5e2d5c767821a5d9d2"
     },
     {
-      "path": "/storybook/dist/chunks/chunks/chunk-QXICRDFR-min.js",
-      "sha": "d14339ee8215aa2f90c6c3351cd98612ff66df37"
+      "path": "/storybook/dist/chunks/chunks/chunk-QDQFYKKJ-min.js",
+      "sha": "f6040407ae08e2e15ec804a7d59c7bcecabfed11"
     },
     {
       "path": "/storybook/dist/chunks/chunks/chunk-WODYT7MU-min.js",
       "sha": "785e62fa8b539ece8093e8409620508a9a82c1d6"
+    },
+    {
+      "path": "/storybook/dist/chunks/chunks/chunk-QXICRDFR-min.js",
+      "sha": "d14339ee8215aa2f90c6c3351cd98612ff66df37"
     },
     {
       "path": "/storybook/dist/chunks/components/Asset/Asset.js",
@@ -248,6 +248,10 @@
       "sha": "903b388999369770afc9b6d443ccb9c8755e118b"
     },
     {
+      "path": "/storybook/dist/chunks/main.js",
+      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
+    },
+    {
       "path": "/storybook/dist/css/Columns50x50/Columns50x50.css",
       "sha": "22655bed304ca18faca2dad9cade2dabaa5b2e2f"
     },
@@ -266,10 +270,6 @@
     {
       "path": "/storybook/dist/css/PromoBanner/PromoBanner.css",
       "sha": "62a41a67194d75cee2a9983b01b93ea2cc5df2d1"
-    },
-    {
-      "path": "/storybook/dist/chunks/main.js",
-      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
     },
     {
       "path": "/storybook/dist/css/SimpleIntro/SimpleIntro.css",
@@ -324,12 +324,12 @@
       "sha": "33bc3eb762d7d762c0dc4062e6671c8a76e8735a"
     },
     {
-      "path": "/storybook/dist/tsc/partials/Header/Header.js.map",
-      "sha": "e284b988ab290d59e4285a779bf897cfeaa02eb1"
-    },
-    {
       "path": "/storybook/dist/tsc/partials/Header/Header.js",
       "sha": "ab04a3ecab4db547d3b8ca2c3e4842e0f684307d"
+    },
+    {
+      "path": "/storybook/dist/tsc/partials/Header/Header.js.map",
+      "sha": "e284b988ab290d59e4285a779bf897cfeaa02eb1"
     },
     {
       "path": "/storybook/dist/tsc/partials/Hero/Hero.js",
