@@ -1,23 +1,23 @@
 {
   "branch": "main",
   "commit": {
-    "sha": "fd009f33cccaff91e24851de6d2a252f3bacb7b9",
-    "message": "Update file on editor.dev.\n",
+    "sha": "f602170c6dfc1190011c6f3d6ad9f797ef7dc878",
+    "message": "Revert \"Update file on editor.dev.\"\n\nThis reverts commit 3a6c981d70a03f3ba5ac34b6c381c2047512658b.\n",
     "author": {
-      "timestamp": 1648124008,
+      "timestamp": 1648124519,
       "name": "DhiaPhntm",
       "email": "89022460+DhiaPhntm@users.noreply.github.com"
     }
   },
-  "built": "Thu Mar 24 2022 12:14:23 GMT+0000 (Coordinated Universal Time)",
+  "built": "Thu Mar 24 2022 12:23:06 GMT+0000 (Coordinated Universal Time)",
   "files": [
     {
-      "path": "/index.html",
-      "sha": "4a8a44ea6097503d83c2b393b95201e38a256e27"
+      "path": "/about/index.html",
+      "sha": "819aa7f3dbaf39ba1b85059dbdd6682bb41edd14"
     },
     {
-      "path": "/about/index.html",
-      "sha": "4cf16672122638efe832eee64b3765c676e0a2c5"
+      "path": "/index.html",
+      "sha": "f23137d8e4b9aa172f31dd830017b4dda61dbac6"
     },
     {
       "path": "/static/css/Columns50x50/Columns50x50.css",
@@ -96,20 +96,20 @@
       "sha": "aed2dfcd2bcddaa6027d4b3400710bd1c1c171ad"
     },
     {
-      "path": "/static/chunks/partials/Hero/Hero.js",
-      "sha": "c4ed94c729bbdfa786f8bd5069f43cfa1b60b3b9"
-    },
-    {
       "path": "/static/chunks/main.js",
       "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
     },
     {
-      "path": "/static/chunks/partials/PromoBanner/PromoBanner.js",
-      "sha": "4dbd4035a2d9b4fcb8ee1f2071de1fceecb98ab5"
+      "path": "/static/chunks/partials/Hero/Hero.js",
+      "sha": "c4ed94c729bbdfa786f8bd5069f43cfa1b60b3b9"
     },
     {
       "path": "/static/chunks/partials/SimpleIntro/SimpleIntro.js",
       "sha": "c84969eb60e8a6519066b28d24defbf19906691b"
+    },
+    {
+      "path": "/static/chunks/partials/PromoBanner/PromoBanner.js",
+      "sha": "4dbd4035a2d9b4fcb8ee1f2071de1fceecb98ab5"
     },
     {
       "path": "/static/chunks/partials/Spacer/Spacer.js",
@@ -204,12 +204,12 @@
       "sha": "f6040407ae08e2e15ec804a7d59c7bcecabfed11"
     },
     {
-      "path": "/storybook/dist/chunks/chunks/chunk-WODYT7MU-min.js",
-      "sha": "785e62fa8b539ece8093e8409620508a9a82c1d6"
-    },
-    {
       "path": "/storybook/dist/chunks/chunks/chunk-QXICRDFR-min.js",
       "sha": "d14339ee8215aa2f90c6c3351cd98612ff66df37"
+    },
+    {
+      "path": "/storybook/dist/chunks/chunks/chunk-WODYT7MU-min.js",
+      "sha": "785e62fa8b539ece8093e8409620508a9a82c1d6"
     },
     {
       "path": "/storybook/dist/chunks/components/Asset/Asset.js",
@@ -248,10 +248,6 @@
       "sha": "903b388999369770afc9b6d443ccb9c8755e118b"
     },
     {
-      "path": "/storybook/dist/chunks/main.js",
-      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
-    },
-    {
       "path": "/storybook/dist/css/Columns50x50/Columns50x50.css",
       "sha": "22655bed304ca18faca2dad9cade2dabaa5b2e2f"
     },
@@ -266,6 +262,10 @@
     {
       "path": "/storybook/dist/css/Hero/Hero.css",
       "sha": "95c52e8f41de34764e0a8059a103a27e1f430fef"
+    },
+    {
+      "path": "/storybook/dist/chunks/main.js",
+      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
     },
     {
       "path": "/storybook/dist/css/PromoBanner/PromoBanner.css",
@@ -396,10 +396,6 @@
       "sha": "70a79dbb862aa200a03d009e83d4b672dd18c636"
     },
     {
-      "path": "/storybook/runtime~main.91a0c7330ab317d35c4a.manager.bundle.js",
-      "sha": "312657578756426158f871e25c99c1875308a22b"
-    },
-    {
       "path": "/storybook/vendors~main.52c9a5ff.iframe.bundle.js.LICENSE.txt",
       "sha": "7878f30e39ccbfb69b5c2c136ac367498a04b6f6"
     },
@@ -408,48 +404,48 @@
       "sha": "1308c6dd500dd839e60b241573db9e5b1928d151"
     },
     {
-      "path": "/storybook/vendors~main.f7f16cebbf3aa96a4f89.manager.bundle.js.LICENSE.txt",
-      "sha": "5223ce7357a7b01388ca89726dc72c18b7bde9ff"
+      "path": "/storybook/runtime~main.91a0c7330ab317d35c4a.manager.bundle.js",
+      "sha": "312657578756426158f871e25c99c1875308a22b"
     },
     {
-      "path": "/robots.txt",
-      "sha": "8943ad27646c1df758f43a10c5aab4c33d4b6425"
+      "path": "/storybook/vendors~main.f7f16cebbf3aa96a4f89.manager.bundle.js.LICENSE.txt",
+      "sha": "5223ce7357a7b01388ca89726dc72c18b7bde9ff"
     },
     {
       "path": "/sitemap.xml",
       "sha": "c801c67b6a14f0c85a632bafddf4755b5bb73e51"
     },
     {
+      "path": "/robots.txt",
+      "sha": "8943ad27646c1df758f43a10c5aab4c33d4b6425"
+    },
+    {
       "path": "/preview/index.html",
-      "sha": "ededec6346e7eea12c12972965bd402f9167732e"
+      "sha": "8455fe2dab6b7e4c604e05d8c846a115893feda6"
     },
     {
       "path": "/preview/Columns50x50/index.html",
-      "sha": "9298903e5a459cf9d54f8cd248717af3d4ccf43c"
+      "sha": "097da3f9299d04dced4972452eda190d2c88072d"
     },
     {
       "path": "/preview/Footer/index.html",
-      "sha": "438f5202c127333d53de5b2b2c48f2ecb8f9b87a"
+      "sha": "7c431b004f12f615c76e3ab3efb8178a61a23281"
     },
     {
       "path": "/preview/Header/index.html",
-      "sha": "08996812ada5cc6f19c4aeb66b4f43bf9eeab918"
+      "sha": "fc7d7b58c4bd0928ba8ca72c86cc2981d587ac26"
     },
     {
       "path": "/preview/Hero/index.html",
-      "sha": "42e8b967f6dd0036e9d359e35534ed2e922a82f5"
+      "sha": "6423aa0b5478273b56c78a0a992731c9c08fa435"
     },
     {
       "path": "/preview/PromoBanner/index.html",
-      "sha": "ae7c4d59b059e0964edea35194e15cf49198711a"
+      "sha": "8d2320259f1fbe49ccfb0d777414e6fe34a5baae"
     },
     {
       "path": "/preview/SimpleIntro/index.html",
-      "sha": "367bfb65004c30823780bd4f0a0771b0a5f5ec37"
-    },
-    {
-      "path": "/preview/Spacer/index.html",
-      "sha": "aa1f46e1cd1025c256b079fbe6d0c91ac2db67df"
+      "sha": "03dd3dae6c56a09ec86ba5c02e1cda022e5d4c84"
     },
     {
       "path": "/_page-builder/page-builder-ui.min.css",
@@ -502,6 +498,10 @@
     {
       "path": "/storybook/runtime~main.0373c3fd.iframe.bundle.js",
       "sha": "c27de680706d9f4355f0c803607cd739417781a2"
+    },
+    {
+      "path": "/preview/Spacer/index.html",
+      "sha": "b2a56e12f4a1e3ccccfb42b9e7ddb12ab21c39d2"
     },
     {
       "path": "/storybook/11.f4e922583ae35da460f3.manager.bundle.js",
