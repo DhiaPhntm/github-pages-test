@@ -1,35 +1,35 @@
 {
   "branch": "main",
   "commit": {
-    "sha": "b1b839c9c23e0d4fe239f3c73e8cd38b790542c4",
-    "message": "Initial commit from Create Amagaki\n",
+    "sha": "3a6c981d70a03f3ba5ac34b6c381c2047512658b",
+    "message": "Update file on editor.dev.\n",
     "author": {
-      "timestamp": 1647973796,
-      "name": "Dhia Shakiry",
-      "email": "dhia@phntms.com"
+      "timestamp": 1648123830,
+      "name": "DhiaPhntm",
+      "email": "89022460+DhiaPhntm@users.noreply.github.com"
     }
   },
-  "built": "Wed Mar 23 2022 10:07:10 GMT+0000 (Coordinated Universal Time)",
+  "built": "Thu Mar 24 2022 12:11:43 GMT+0000 (Coordinated Universal Time)",
   "files": [
     {
-      "path": "/about/index.html",
-      "sha": "819aa7f3dbaf39ba1b85059dbdd6682bb41edd14"
+      "path": "/index.html",
+      "sha": "4a8a44ea6097503d83c2b393b95201e38a256e27"
     },
     {
-      "path": "/index.html",
-      "sha": "f23137d8e4b9aa172f31dd830017b4dda61dbac6"
+      "path": "/about/index.html",
+      "sha": "4cf16672122638efe832eee64b3765c676e0a2c5"
     },
     {
       "path": "/static/css/Columns50x50/Columns50x50.css",
       "sha": "22655bed304ca18faca2dad9cade2dabaa5b2e2f"
     },
     {
-      "path": "/static/css/Footer/Footer.css",
-      "sha": "1a0c6d0ad2e6ee0e8ddbfbf98c32f38d0d05c681"
-    },
-    {
       "path": "/static/images/amagaki.png",
       "sha": "40088144576a299df6dd54d2be64c4db4bf8cca0"
+    },
+    {
+      "path": "/static/css/Footer/Footer.css",
+      "sha": "1a0c6d0ad2e6ee0e8ddbfbf98c32f38d0d05c681"
     },
     {
       "path": "/static/css/Header/Header.css",
@@ -104,12 +104,12 @@
       "sha": "4dbd4035a2d9b4fcb8ee1f2071de1fceecb98ab5"
     },
     {
-      "path": "/static/chunks/partials/SimpleIntro/SimpleIntro.js",
-      "sha": "c84969eb60e8a6519066b28d24defbf19906691b"
-    },
-    {
       "path": "/static/chunks/main.js",
       "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
+    },
+    {
+      "path": "/static/chunks/partials/SimpleIntro/SimpleIntro.js",
+      "sha": "c84969eb60e8a6519066b28d24defbf19906691b"
     },
     {
       "path": "/static/chunks/partials/Spacer/Spacer.js",
@@ -172,7 +172,7 @@
       "sha": "8232424646965a73df926f4ed249099e5414bbbf"
     },
     {
-      "path": "/storybook/7.62d9ea45.iframe.bundle.js",
+      "path": "/storybook/7.debfa9ad.iframe.bundle.js",
       "sha": "c5599036f04643311db212909e6b4bf2f01c62b0"
     },
     {
@@ -212,12 +212,12 @@
       "sha": "785e62fa8b539ece8093e8409620508a9a82c1d6"
     },
     {
-      "path": "/storybook/dist/chunks/components/Button/Button.js",
-      "sha": "5661208933e51cde647c720376a6cd775c4f12d7"
-    },
-    {
       "path": "/storybook/dist/chunks/components/Asset/Asset.js",
       "sha": "873bc51d77a4426091e6fc4227f6c7bc551ef7fa"
+    },
+    {
+      "path": "/storybook/dist/chunks/components/Button/Button.js",
+      "sha": "5661208933e51cde647c720376a6cd775c4f12d7"
     },
     {
       "path": "/storybook/dist/chunks/partials/Columns50x50/Columns50x50.js",
@@ -252,10 +252,6 @@
       "sha": "22655bed304ca18faca2dad9cade2dabaa5b2e2f"
     },
     {
-      "path": "/storybook/dist/chunks/main.js",
-      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
-    },
-    {
       "path": "/storybook/dist/css/Footer/Footer.css",
       "sha": "1a0c6d0ad2e6ee0e8ddbfbf98c32f38d0d05c681"
     },
@@ -268,12 +264,16 @@
       "sha": "95c52e8f41de34764e0a8059a103a27e1f430fef"
     },
     {
-      "path": "/storybook/dist/css/SimpleIntro/SimpleIntro.css",
-      "sha": "03faa70f685d2b89cbb9cbff0d999cf2749e9ba8"
-    },
-    {
       "path": "/storybook/dist/css/PromoBanner/PromoBanner.css",
       "sha": "62a41a67194d75cee2a9983b01b93ea2cc5df2d1"
+    },
+    {
+      "path": "/storybook/dist/chunks/main.js",
+      "sha": "d13dddf7226bd798235ffbc832137fadcc3ad05f"
+    },
+    {
+      "path": "/storybook/dist/css/SimpleIntro/SimpleIntro.css",
+      "sha": "03faa70f685d2b89cbb9cbff0d999cf2749e9ba8"
     },
     {
       "path": "/storybook/dist/css/Spacer/Spacer.css",
@@ -296,12 +296,12 @@
       "sha": "a6790c81a32769c58cfb6529f170881c1bd06c8d"
     },
     {
-      "path": "/storybook/dist/tsc/main.js",
-      "sha": "85c3c5cb2411723339d882898299f119320d438e"
-    },
-    {
       "path": "/storybook/dist/tsc/components/Button/Button.js.map",
       "sha": "ebe97ae474d9ce2035f306947175d998d20d0140"
+    },
+    {
+      "path": "/storybook/dist/tsc/main.js",
+      "sha": "85c3c5cb2411723339d882898299f119320d438e"
     },
     {
       "path": "/storybook/dist/tsc/main.js.map",
@@ -312,24 +312,24 @@
       "sha": "4a501a9432aa7db48315e72cb165c971d3eb3513"
     },
     {
-      "path": "/storybook/dist/tsc/partials/Footer/Footer.js",
-      "sha": "f2b6b2151ba423fa519c1e64d8c1c469572bd287"
-    },
-    {
       "path": "/storybook/dist/tsc/partials/Columns50x50/Columns50x50.js.map",
       "sha": "09e5ff575f3690b339427db5c854da0018c9aaa5"
+    },
+    {
+      "path": "/storybook/dist/tsc/partials/Footer/Footer.js",
+      "sha": "f2b6b2151ba423fa519c1e64d8c1c469572bd287"
     },
     {
       "path": "/storybook/dist/tsc/partials/Footer/Footer.js.map",
       "sha": "33bc3eb762d7d762c0dc4062e6671c8a76e8735a"
     },
     {
-      "path": "/storybook/dist/tsc/partials/Header/Header.js",
-      "sha": "ab04a3ecab4db547d3b8ca2c3e4842e0f684307d"
-    },
-    {
       "path": "/storybook/dist/tsc/partials/Header/Header.js.map",
       "sha": "e284b988ab290d59e4285a779bf897cfeaa02eb1"
+    },
+    {
+      "path": "/storybook/dist/tsc/partials/Header/Header.js",
+      "sha": "ab04a3ecab4db547d3b8ca2c3e4842e0f684307d"
     },
     {
       "path": "/storybook/dist/tsc/partials/Hero/Hero.js",
@@ -381,7 +381,7 @@
     },
     {
       "path": "/storybook/iframe.html",
-      "sha": "c86c6d2a685508452b01956e89e02c42c68d15b8"
+      "sha": "e51bd9bee94ff84a8c2c53dcf21816f54f2dbecd"
     },
     {
       "path": "/storybook/index.html",
@@ -392,60 +392,64 @@
       "sha": "2055e689cfb3301ed2705569dfff27bf5fbf09e8"
     },
     {
-      "path": "/storybook/main.632ed05e.iframe.bundle.js",
+      "path": "/storybook/main.ac7869d4.iframe.bundle.js",
       "sha": "70a79dbb862aa200a03d009e83d4b672dd18c636"
-    },
-    {
-      "path": "/storybook/vendors~main.59834915.iframe.bundle.js.LICENSE.txt",
-      "sha": "7878f30e39ccbfb69b5c2c136ac367498a04b6f6"
-    },
-    {
-      "path": "/storybook/vendors~main.59834915.iframe.bundle.js.map",
-      "sha": "fcf2554d9148d744cf70c0daecc789ad72455aec"
-    },
-    {
-      "path": "/storybook/vendors~main.f7f16cebbf3aa96a4f89.manager.bundle.js.LICENSE.txt",
-      "sha": "5223ce7357a7b01388ca89726dc72c18b7bde9ff"
     },
     {
       "path": "/storybook/runtime~main.91a0c7330ab317d35c4a.manager.bundle.js",
       "sha": "312657578756426158f871e25c99c1875308a22b"
     },
     {
-      "path": "/robots.txt",
-      "sha": "8943ad27646c1df758f43a10c5aab4c33d4b6425"
+      "path": "/storybook/vendors~main.52c9a5ff.iframe.bundle.js.LICENSE.txt",
+      "sha": "7878f30e39ccbfb69b5c2c136ac367498a04b6f6"
     },
     {
-      "path": "/preview/index.html",
-      "sha": "8455fe2dab6b7e4c604e05d8c846a115893feda6"
+      "path": "/storybook/vendors~main.52c9a5ff.iframe.bundle.js.map",
+      "sha": "1308c6dd500dd839e60b241573db9e5b1928d151"
+    },
+    {
+      "path": "/storybook/vendors~main.f7f16cebbf3aa96a4f89.manager.bundle.js.LICENSE.txt",
+      "sha": "5223ce7357a7b01388ca89726dc72c18b7bde9ff"
+    },
+    {
+      "path": "/robots.txt",
+      "sha": "8943ad27646c1df758f43a10c5aab4c33d4b6425"
     },
     {
       "path": "/sitemap.xml",
       "sha": "c801c67b6a14f0c85a632bafddf4755b5bb73e51"
     },
     {
+      "path": "/preview/index.html",
+      "sha": "ededec6346e7eea12c12972965bd402f9167732e"
+    },
+    {
       "path": "/preview/Columns50x50/index.html",
-      "sha": "097da3f9299d04dced4972452eda190d2c88072d"
+      "sha": "9298903e5a459cf9d54f8cd248717af3d4ccf43c"
     },
     {
       "path": "/preview/Footer/index.html",
-      "sha": "7c431b004f12f615c76e3ab3efb8178a61a23281"
-    },
-    {
-      "path": "/preview/Hero/index.html",
-      "sha": "6423aa0b5478273b56c78a0a992731c9c08fa435"
+      "sha": "438f5202c127333d53de5b2b2c48f2ecb8f9b87a"
     },
     {
       "path": "/preview/Header/index.html",
-      "sha": "fc7d7b58c4bd0928ba8ca72c86cc2981d587ac26"
+      "sha": "08996812ada5cc6f19c4aeb66b4f43bf9eeab918"
+    },
+    {
+      "path": "/preview/Hero/index.html",
+      "sha": "42e8b967f6dd0036e9d359e35534ed2e922a82f5"
     },
     {
       "path": "/preview/PromoBanner/index.html",
-      "sha": "8d2320259f1fbe49ccfb0d777414e6fe34a5baae"
+      "sha": "ae7c4d59b059e0964edea35194e15cf49198711a"
     },
     {
       "path": "/preview/SimpleIntro/index.html",
-      "sha": "03dd3dae6c56a09ec86ba5c02e1cda022e5d4c84"
+      "sha": "367bfb65004c30823780bd4f0a0771b0a5f5ec37"
+    },
+    {
+      "path": "/preview/Spacer/index.html",
+      "sha": "aa1f46e1cd1025c256b079fbe6d0c91ac2db67df"
     },
     {
       "path": "/_page-builder/page-builder-ui.min.css",
@@ -496,12 +500,8 @@
       "sha": "bdf2d252e2565c997f27f3e0d42a7e31a8504f02"
     },
     {
-      "path": "/storybook/runtime~main.5457c64c.iframe.bundle.js",
-      "sha": "af05b2cac797f3ea03b6a52ef153d0c72aa47588"
-    },
-    {
-      "path": "/preview/Spacer/index.html",
-      "sha": "b2a56e12f4a1e3ccccfb42b9e7ddb12ab21c39d2"
+      "path": "/storybook/runtime~main.0373c3fd.iframe.bundle.js",
+      "sha": "c27de680706d9f4355f0c803607cd739417781a2"
     },
     {
       "path": "/storybook/11.f4e922583ae35da460f3.manager.bundle.js",
@@ -524,8 +524,8 @@
       "sha": "31216c3081c39449f5337b910dfd6abe56ab9e92"
     },
     {
-      "path": "/storybook/vendors~main.59834915.iframe.bundle.js",
-      "sha": "852ab9fa3e793af754a7f1976d8a1ef9aede59e8"
+      "path": "/storybook/vendors~main.52c9a5ff.iframe.bundle.js",
+      "sha": "c06285ad813530681f37530f514e81e2ffcc51f4"
     },
     {
       "path": "/storybook/vendors~main.f7f16cebbf3aa96a4f89.manager.bundle.js",
